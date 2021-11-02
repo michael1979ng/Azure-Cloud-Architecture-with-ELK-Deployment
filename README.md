@@ -1,3 +1,7 @@
+![Azure Cloud architecture with ELK Deployment](https://user-images.githubusercontent.com/93474690/139771465-5ddc746c-9aa2-4d8f-a8fd-8e89db583ced.jpg)
+
+
+
 # Azure-Cloud-Architecture-with-ELK-Deployment
 ## Automated ELK Stack Deployment
 
